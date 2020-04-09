@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AO_DataBackup", "AO_DataBackup.csproj", "{866CA4B3-AD25-4D58-9A60-5C6C72592419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{866CA4B3-AD25-4D58-9A60-5C6C72592419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866CA4B3-AD25-4D58-9A60-5C6C72592419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866CA4B3-AD25-4D58-9A60-5C6C72592419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866CA4B3-AD25-4D58-9A60-5C6C72592419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FDE8322-AAF4-4C66-BE9B-276E102BAD5E}
+	EndGlobalSection
+EndGlobal
